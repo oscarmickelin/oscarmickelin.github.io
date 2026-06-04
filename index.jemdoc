@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}
+
+== Oscar Mickelin
+
+~~~
+{}{img_left}{osmic2.jpg}{Me}{225}{270}{https://oscarmickelin.github.io}
+I am currently assistant professor at Tsinghua University
+
+e-mail: oscarmi (at) tsinghua (dot) edu (dot) cn
+
+Address: C543, Shuangqing Complex Building, Tsinghua University
+Haidian District, Beijing, China, 100084
+
+[cvOscarMickelin.pdf CV], last updated June 2026. For an updated list of publications, see my [https://scholar.google.com/citations?user=Ug7pA-sAAAAJ&hl=en&oi=ao google scholar page.]
+
+I was a postdoc in the [https://www.pacm.princeton.edu/ program in applied and computational mathematics] at Princeton University, working with [https://web.math.princeton.edu/~amits/ Amit Singer.] Before this, I did my Ph.D. in [https://math.mit.edu/ mathematics at MIT], and was fortunate to be advised by [https://karaman.mit.edu/ Sertac Karaman.]
+
+~~~
+
+== Research
+My research interests include
+- Numerical analysis
+- Numerical tensor methods
+- Cryo-EM
+- Control theory
+
+
+See a [publications.html full list of publications] for more details!
